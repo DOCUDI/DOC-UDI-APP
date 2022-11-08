@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "674626503866",
+    "project_id": "doc-udi",
+    "storage_bucket": "doc-udi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674626503866:android:8c23c49f52a85c9123ae83",
+        "android_client_info": {
+          "package_name": "com.example.docudi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674626503866-9icfuppdgqj3j91u7j27e2iaptn22264.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docudi",
+            "certificate_hash": "4a2b49f5cfdbaf8097e1a8740f5f2a11a7633e1c"
+          }
+        },
+        {
+          "client_id": "674626503866-se3l6gravrrbrbm57p2p5v2n82cj7b34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-i_HjsGIbAKwqGUMcHp_1OtOUJUZvkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674626503866-se3l6gravrrbrbm57p2p5v2n82cj7b34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
